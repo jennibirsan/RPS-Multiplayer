@@ -1,3 +1,5 @@
+// CODE copied from WEEK 7, ACT 17 Time Sheet and tweaked from there! I also had tutoring help with the MOMENTS portion!!!
+
 // 1. Initialize Firebase
 // Your web app's Firebase configuration
 var firebaseConfig = {
